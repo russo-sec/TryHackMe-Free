@@ -36,7 +36,7 @@ Aqui esta uma lista com mais de **500 salas gratuitas do TryHackMe** para te aju
 | **[Buffer Overflow](#buffer-overflow)**          |   4   |                          |
 | **[Misc](#misc)**                                |  43   |                          |
 | **[Eventos Especiais](#eventos-especiais)**      |  12   |                          |
-| **Total de Salas:**                              | **= 503** |       **= 37**       |
+| **Total de Salas:**                              | ** 503** |       ** 37**       |
 
 ---
 
