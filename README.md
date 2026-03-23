@@ -42,7 +42,7 @@ Aqui esta uma lista com mais de **500 salas gratuitas do TryHackMe** para te aju
 
 ## CTF Facil
 
-- [x] [TryHackMe | Wgel CTF](https://tryhackme.com/room/wgelctf)  [**Write Up**](https://0xfke.github.io/posts/Try-Hack-Me-Wgel-ctf/)
+- [x] [TryHackMe | Wgel CTF](https://tryhackme.com/room/wgelctf) 
       
 - [x] [TryHackMe | Pyrat](https://tryhackme.com/room/pyrat)
   
